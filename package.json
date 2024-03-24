@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ENG-MonaSaleh.github.io/mona-portfolio/",
+  "homepage": "https://eng-monasaleh.github.io/mona-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
