@@ -9,19 +9,19 @@ import { useEffect, useState } from 'react'
 
 const router = createBrowserRouter([
   {
-    path: '/mona-portfolio/',
+    path: '/',
     element: <Home />,
   },
   {
-    path: '/mona-portfolio/contact',
+    path: '/contact',
     element: <Contact />,
   },
   {
-    path: '/mona-portfolio/resume',
+    path: '/resume',
     element: <Resume />,
   },
   {
-    path: '/mona-portfolio/work',
+    path: '/work',
     element: <Work />,
   },
 ])

@@ -1,25 +1,25 @@
 export const ItemsDetail = [
   {
     title: 'Home',
-    url: '/mona-portfolio/',
+    url: '/',
     className: 'navitems',
     icon: 'fa-solid fa-house-chimney',
   },
   {
     title: 'Resume',
-    url: '/mona-portfolio/resume',
+    url: '/resume',
     className: 'navitems',
     icon: 'fa-solid fa-file',
   },
   {
     title: 'Work',
-    url: '/mona-portfolio/work',
+    url: '/work',
     className: 'navitems',
     icon: 'fa-solid fa-briefcase',
   },
   {
     title: 'Contact',
-    url: '/mona-portfolio/contact',
+    url: '/contact',
     className: 'navitems',
     icon: 'fa-solid fa-address-book',
   },

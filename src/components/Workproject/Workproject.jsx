@@ -28,11 +28,11 @@ const Workproject = () => {
         </div>
         <h1 className="h1">Certificates</h1>
         <div className="certificate">
-          <img src="/mona-portfolio/images/arduino.jpg" alt="" />
-          <img src="/mona-portfolio/images/certificate.jpg" alt="" />
-          <img src="/mona-portfolio/images/hamak.jpg" alt="" />
-          <img src="/mona-portfolio/images/icdl.jpg" alt="" />
-          <img src="/mona-portfolio/images/tamayoz.jpg" alt="" />
+          <img src="/images/arduino.jpg" alt="" />
+          <img src="/images/certificate.jpg" alt="" />
+          <img src="/images/hamak.jpg" alt="" />
+          <img src="/images/icdl.jpg" alt="" />
+          <img src="/images/tamayoz.jpg" alt="" />
         </div>
       </div>
     </>
